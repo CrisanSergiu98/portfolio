@@ -1,0 +1,9 @@
+{
+    "projects": [
+        {
+            "name": "food-recipes",
+            "description": "Food recope API using Clean Architecture and Domain Driven Design.",
+            "github": "https://github.com/CrisanSergiu98/food-recipes"
+        }
+    ]
+}
